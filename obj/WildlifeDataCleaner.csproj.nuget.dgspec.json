@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\home\\Documents\\GitHub\\provision\\WildlifeDataCleaner\\WildlifeDataCleaner.csproj": {}
+    "C:\\Users\\home\\documents\\github\\provision\\WildLifeDataCleaner\\WildlifeDataCleaner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\home\\Documents\\GitHub\\provision\\WildlifeDataCleaner\\WildlifeDataCleaner.csproj": {
+    "C:\\Users\\home\\documents\\github\\provision\\WildLifeDataCleaner\\WildlifeDataCleaner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\home\\Documents\\GitHub\\provision\\WildlifeDataCleaner\\WildlifeDataCleaner.csproj",
+        "projectUniqueName": "C:\\Users\\home\\documents\\github\\provision\\WildLifeDataCleaner\\WildlifeDataCleaner.csproj",
         "projectName": "WildlifeDataCleaner",
-        "projectPath": "C:\\Users\\home\\Documents\\GitHub\\provision\\WildlifeDataCleaner\\WildlifeDataCleaner.csproj",
+        "projectPath": "C:\\Users\\home\\documents\\github\\provision\\WildLifeDataCleaner\\WildlifeDataCleaner.csproj",
         "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\home\\Documents\\GitHub\\provision\\WildlifeDataCleaner\\obj\\",
+        "outputPath": "C:\\Users\\home\\documents\\github\\provision\\WildLifeDataCleaner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
