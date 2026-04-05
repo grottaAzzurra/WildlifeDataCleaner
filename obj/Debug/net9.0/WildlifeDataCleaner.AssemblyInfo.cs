@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WildlifeDataCleaner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014ec8008392ad27e9d7bef98c9d3dabac11eb4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b07b04496eeb7c818364e3942575216df82c713c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WildlifeDataCleaner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WildlifeDataCleaner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
