@@ -13,3 +13,10 @@ static string GreetAnimal(string animalName)
 {
     return "Hello, " + animalName + ". Welcome to the Wildlife Data Cleaner.";
 }
+
+public class AnimalRecord
+{
+    public string Name { get; set; }
+    public string Species { get; set; }
+    public string Location { get; set; }
+}
